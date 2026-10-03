@@ -1,0 +1,3 @@
+# Collaborative Telemetry
+
+Metrics collector.
